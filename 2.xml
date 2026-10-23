@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Module>
-<ModulePrefs title="fortnite" />
+<ModulePrefs title="classroom" />
 <Content type="html"><![CDATA[
 
 <!DOCTYPE html>
@@ -42,15 +42,15 @@ html,body{margin:0;padding:0;height:100%;background:#65c8f2;overflow:hidden}
 <div id="pl-err"><div id="pl-err-t"></div><button onclick="location.reload()">Reload</button></div>
 
 <script>
-window.ASSET_CDN = "https://cdn.jsdelivr.net/gh/classroomusers/77u6666@main/assets/";
+window.ASSET_CDN = "https://cdn.jsdelivr.net/gh/classroomusers/77u6666@c46d1df/assets/";
 
-window.U_MANIFEST = "https://cdn.jsdelivr.net/gh/classroomusers/77u6666@main/asset-manifest.json";
-window.U_CONFIG   = "https://cdn.jsdelivr.net/gh/classroomusers/77u6666@main/config.json";
-window.U_PACKS    = "https://cdn.jsdelivr.net/gh/classroomusers/77u6666@main/packs/";
-window.U_IMAGES   = "https://cdn.jsdelivr.net/gh/classroomusers/77u6666@main/images/";
+window.U_MANIFEST = "https://cdn.jsdelivr.net/gh/classroomusers/77u6666@c46d1df/asset-manifest.json";
+window.U_CONFIG   = "https://cdn.jsdelivr.net/gh/classroomusers/77u6666@c46d1df/config.json";
+window.U_PACKS    = "https://cdn.jsdelivr.net/gh/classroomusers/77u6666@c46d1df/packs/";
+window.U_IMAGES   = "https://cdn.jsdelivr.net/gh/classroomusers/77u6666@c46d1df/images/";
 
 window.WASM_NAME  = "jolt-physics.wasm-CvlHROwB.wasm";
-window.U_WASM     = "https://cdn.jsdelivr.net/gh/classroomusers/77u6666@main/assets/jolt-physics.wasm-CvlHROwB.wasm";
+window.U_WASM     = "https://cdn.jsdelivr.net/gh/classroomusers/77u6666@c46d1df/assets/jolt-physics.wasm-CvlHROwB.wasm";
 </script>
 
 <script>
