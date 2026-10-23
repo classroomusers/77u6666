@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="mobile-web-app-capable" content="yes"/>
+<link rel="preload" as="image" href="./images/preloader.webp" fetchpriority="high"/>
+<style>html,body,body *{-webkit-user-select:none;user-select:none;-webkit-touch-callout:none}input,textarea,[contenteditable=true]{-webkit-user-select:text;user-select:text}.pl-preloader{z-index:99999;opacity:1;pointer-events:auto;touch-action:none;background:#65c8f2;transition:opacity .12s ease-out;position:fixed;inset:0;overflow:hidden}.pl-preloader.preloader-hidden{opacity:0}.pl-preloader-art{object-fit:cover;object-position:center;width:100%;height:100%;position:absolute;inset:0}.pl-preloader:after{content:"";background:linear-gradient(#0000,#0e182859);position:absolute;inset:65% 0 0}.pl-preloader-track{z-index:1;left:50%;bottom:max(8%, env(safe-area-inset-bottom));background:#0e182866;border-radius:8px;width:clamp(200px,38vw,420px);max-width:75%;height:8px;position:absolute;overflow:hidden;transform:translate(-50%);box-shadow:0 1px 8px #0e182833}#pl-preloader-fill{border-radius:inherit;background:#fff;width:0%;height:100%;transition:width .2s}@media (orientation:portrait){.pl-preloader-track{width:65vw}}@media (prefers-reduced-motion:reduce){.pl-preloader,#pl-preloader-fill{transition:none}}</style>
+<title>Pull-up Tricks</title>
+<script src="playgama-bridge.js"></script>
+<style>#loading-overlay{display:none!important}</style>
+<script type="module" crossorigin="" src="./assets/index-vQ-tBumf.js"></script>
+<link rel="modulepreload" crossorigin="" href="./assets/rolldown-runtime-CbXtAM7H.js"/>
+<link rel="stylesheet" crossorigin="" href="./assets/index-D_Xwfqq3.css"/>
+</head>
+<body>
+<div id="pl-preloader" class="pl-preloader" aria-hidden="true">
+<img class="pl-preloader-art" src="./images/preloader.webp" alt="" fetchpriority="high"/>
+<div class="pl-preloader-track"><div id="pl-preloader-fill"></div></div>
+</div>
+<div id="game-root" style="position:fixed;inset:0;z-index:0">
+<canvas id="three-canvas" style="width:100%;height:100%;display:block;touch-action:none"></canvas>
+</div>
+<div id="ui-root" style="position:fixed;inset:0;z-index:1;pointer-events:none"></div>
+</body>
+</html>

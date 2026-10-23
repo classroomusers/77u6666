@@ -1,0 +1,91 @@
+{
+  "$schema": "https://bridge.playgama.com/v2/stable/schema.json",
+  "disableLoadingLogo": true,
+  "showFullLoadingLogo": false,
+  "sendAnalyticsEvents": false,
+  "crossPromo": {
+    "source": "platform"
+  },
+  "payments": [
+    {
+      "id": "no_ads",
+      "yandex": {
+        "id": "no_ads"
+      },
+      "playgama": {
+        "id": "no_ads",
+        "amount": 10
+      },
+      "vk": {
+        "id": "no_ads",
+        "amount": 7,
+        "title": "Отключить рекламу"
+      },
+      "okru": {
+        "id": "no_ads",
+        "amount": 49,
+        "title": "Отключить рекламу"
+      }
+    },
+    {
+      "id": "coins_1000",
+      "yandex": {
+        "id": "coins_1000"
+      },
+      "playgama": {
+        "id": "coins_1000",
+        "amount": 7
+      },
+      "vk": {
+        "id": "coins_1000",
+        "amount": 7,
+        "title": "1000 монет"
+      },
+      "okru": {
+        "id": "coins_1000",
+        "amount": 49,
+        "title": "1000 монет"
+      }
+    },
+    {
+      "id": "coins_3000",
+      "yandex": {
+        "id": "coins_3000"
+      },
+      "playgama": {
+        "id": "coins_3000",
+        "amount": 15
+      },
+      "vk": {
+        "id": "coins_3000",
+        "amount": 18,
+        "title": "3000 монет"
+      },
+      "okru": {
+        "id": "coins_3000",
+        "amount": 129,
+        "title": "3000 монет"
+      }
+    },
+    {
+      "id": "coins_10000",
+      "yandex": {
+        "id": "coins_10000"
+      },
+      "playgama": {
+        "id": "coins_10000",
+        "amount": 40
+      },
+      "vk": {
+        "id": "coins_10000",
+        "amount": 50,
+        "title": "10000 монет"
+      },
+      "okru": {
+        "id": "coins_10000",
+        "amount": 349,
+        "title": "10000 монет"
+      }
+    }
+  ]
+}

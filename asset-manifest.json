@@ -1,0 +1,236 @@
+{
+  "assets": [
+    {
+      "path": "assets/index-vQ-tBumf.js",
+      "size": 2982743
+    },
+    {
+      "path": "assets/__vite-browser-external-Cn0MOYvd.js",
+      "size": 103
+    },
+    {
+      "path": "assets/rolldown-runtime-CbXtAM7H.js",
+      "size": 589
+    },
+    {
+      "path": "assets/index-D_Xwfqq3.css",
+      "size": 80356
+    },
+    {
+      "path": "assets/jolt-physics.wasm-CvlHROwB.wasm",
+      "size": 2021569
+    },
+    {
+      "path": "packs/boot.5a12598f6116c59ef6f5939a7b47206642f106ea3035350cf3771f832c6aa0ec.pblpack",
+      "size": 818557
+    },
+    {
+      "path": "packs/courtyard.26287cd7b1211edb4ecf01602e2e3340f9ef9ff53c85c1018e8c5dad3025303c.pblpack",
+      "size": 1049578
+    },
+    {
+      "path": "packs/map-bars-city.ab437024134864a007eb8aa85802eb6688d96b4eb3486ca3ba4b78b94edd4972.pblpack",
+      "size": 28765
+    },
+    {
+      "path": "packs/map-bars-classic.9a10c0eb8347e50ce1899ec2e0255b8840b48e743f438af40815230c60c9a9de.pblpack",
+      "size": 5350
+    },
+    {
+      "path": "packs/map-bars-diamond.7231897fffa653f2be45be144e6f192a89f5b94a145b96cc40b0d222388813cc.pblpack",
+      "size": 6570
+    },
+    {
+      "path": "packs/map-bars-gears.8aba3f861ff977780786215eeb76e251092d9a61e22856882fbea1790a6c826a.pblpack",
+      "size": 6606
+    },
+    {
+      "path": "packs/map-bars-indoors.7d7166bd24ae278e07df61614239713936fa56a624031260e266118c2165e550.pblpack",
+      "size": 5740
+    },
+    {
+      "path": "packs/map-bars-ladders.ae959dbdcff45fb4ae5d6b48ac7867e66d06f8c1ead0eae6313de59deed8261d.pblpack",
+      "size": 8252
+    },
+    {
+      "path": "packs/map-bars-new-classic.90b5bd6b032eea72732dfcd17607e356c66d8c8c713ea157ea21116c3d0d9bfe.pblpack",
+      "size": 11122
+    },
+    {
+      "path": "packs/map-bars-old-classic.696f8be9f14f5b44964b9527d9a7fe127ae5c0844e5d19155d1fe8db173fc142.pblpack",
+      "size": 8565
+    },
+    {
+      "path": "packs/map-bars-spikes.135a299c01cca391d3cdb008f011cd23c86f40bbafba8f4a1b1243d266214048.pblpack",
+      "size": 12127
+    },
+    {
+      "path": "packs/map-bars-the-w.d515661697c500ebf67477d3e652fc0c02f63d6db22769b5e4bffd9d53670b61.pblpack",
+      "size": 6334
+    },
+    {
+      "path": "packs/map-bars-trampoline.f4e599de2efbe419b49826931058f9529a09cada54bf198c2de6ea8ca727f5e2.pblpack",
+      "size": 9461
+    },
+    {
+      "path": "packs/map-bars-workout-park.543fcf12b3f5b2d0fae0ad50719bfe8ec6bf17c5cf8e61ac6166373fecbf513f.pblpack",
+      "size": 79807
+    },
+    {
+      "path": "packs/map-menu.fc9f2263e288a2419b41a05aa80d66b28a234bf53685ac44b6bc0620d07a1950.pblpack",
+      "size": 3293
+    },
+    {
+      "path": "packs/map-tumbling-boxes.963993badcebca2bbb1f9d6462a837c2bcb4febbc6f6911ec249e6365662ac39.pblpack",
+      "size": 2868
+    },
+    {
+      "path": "packs/map-tumbling-flat.79ea896f1cb220a330ea5ef5a9adc879f4d5d4dcdb32bde6d2419390e8a3fcb1.pblpack",
+      "size": 2203
+    },
+    {
+      "path": "packs/map-tumbling-moving-blocks.542bd7b92d93d127eab32ee8cba65362be05f9e98ff33a3b082541593875838e.pblpack",
+      "size": 2152
+    },
+    {
+      "path": "packs/map-tumbling-platforms.5aaca991b0dc6c209740cad4bff3b13e88cbccbd309996de5d9c78e6f4f04049.pblpack",
+      "size": 1872
+    },
+    {
+      "path": "packs/map-tumbling-precisions.97a4a4ff041ae45818f31da895060f60003e027feddff060215aa97d943ecb91.pblpack",
+      "size": 2896
+    },
+    {
+      "path": "packs/map-tumbling-ramps.74705955401b71f2ed129715d07cccaa56e9cad1875f60f59f9020cdbc3c0f35.pblpack",
+      "size": 3597
+    },
+    {
+      "path": "packs/map-ui-designer.ad077e6a94f930cf10256d3ec71c7e449d2d80dfbdb59e11d6707b73439badb9.pblpack",
+      "size": 3555
+    },
+    {
+      "path": "platform-bridges/crazygames.js",
+      "size": 9471
+    },
+    {
+      "path": "platform-bridges/discord.js",
+      "size": 5422
+    },
+    {
+      "path": "platform-bridges/dlightek.js",
+      "size": 3175
+    },
+    {
+      "path": "platform-bridges/facebook.js",
+      "size": 11961
+    },
+    {
+      "path": "platform-bridges/gamedistribution.js",
+      "size": 2299
+    },
+    {
+      "path": "platform-bridges/gamepush.js",
+      "size": 2228
+    },
+    {
+      "path": "platform-bridges/gamesnacks.js",
+      "size": 2754
+    },
+    {
+      "path": "platform-bridges/huawei.js",
+      "size": 6073
+    },
+    {
+      "path": "platform-bridges/jiogames.js",
+      "size": 3405
+    },
+    {
+      "path": "platform-bridges/lagged.js",
+      "size": 2236
+    },
+    {
+      "path": "platform-bridges/microsoftstore.js",
+      "size": 8533
+    },
+    {
+      "path": "platform-bridges/msn.js",
+      "size": 11858
+    },
+    {
+      "path": "platform-bridges/ok.js",
+      "size": 7662
+    },
+    {
+      "path": "platform-bridges/playgama.js",
+      "size": 8287
+    },
+    {
+      "path": "platform-bridges/poki.js",
+      "size": 1884
+    },
+    {
+      "path": "platform-bridges/portal.js",
+      "size": 4024
+    },
+    {
+      "path": "platform-bridges/qatool.js",
+      "size": 23679
+    },
+    {
+      "path": "platform-bridges/reddit.js",
+      "size": 4155
+    },
+    {
+      "path": "platform-bridges/samsung.js",
+      "size": 6197
+    },
+    {
+      "path": "platform-bridges/standalone.js",
+      "size": 9001
+    },
+    {
+      "path": "platform-bridges/telegram.js",
+      "size": 4226
+    },
+    {
+      "path": "platform-bridges/tiktok.js",
+      "size": 5318
+    },
+    {
+      "path": "platform-bridges/vk.js",
+      "size": 4934
+    },
+    {
+      "path": "platform-bridges/xiaomi.js",
+      "size": 2649
+    },
+    {
+      "path": "platform-bridges/y8.js",
+      "size": 5355
+    },
+    {
+      "path": "platform-bridges/yandex.js",
+      "size": 11546
+    },
+    {
+      "path": "platform-bridges/youtube.js",
+      "size": 22194
+    },
+    {
+      "path": "playgama-bridge-config.json",
+      "size": 1804
+    },
+    {
+      "path": "playgama-bridge.js",
+      "size": 112011
+    },
+    {
+      "path": "config.json",
+      "size": 2581
+    },
+    {
+      "path": "images/preloader.webp",
+      "size": 95608
+    }
+  ]
+}
